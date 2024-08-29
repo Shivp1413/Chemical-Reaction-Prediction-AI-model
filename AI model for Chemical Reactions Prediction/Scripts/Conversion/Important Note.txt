@@ -1,0 +1,2 @@
+convertgz2csv.py worjks for .pb.gz to csv
+gz2pbtxt.py works for .pb.gz to .pbtxt
